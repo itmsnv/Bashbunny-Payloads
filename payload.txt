@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Title:         WiFiCreds
+# Title:         WiFiCredentials
 # Author:        ITMS
 # Version:       1.0
 #
