@@ -59,4 +59,4 @@ sync
 FILE="/root/udisk/loot/WiFiCreds/DONE"
 while [ ! -e $FILE ]; do sleep 1; done;
 sleep 1;
-if [ -e $FILE ]; then rm -f $FILE; LED G 200; else LED R; fi
+if [ -e $FILE ]; then rm -f $FILE; LED G 200; else LED R;
