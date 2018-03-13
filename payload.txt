@@ -4,8 +4,8 @@
 # Author:        ITMS
 # Version:       1.0
 #
-# the stored plaintext Wifi SSID & passwords from Windows boxes using Powershell
-# then stashes them in /root/udisk/loot/WiFi-Credentials
+# Credentials are stored in plaintext. The Wifi SSID & passwords are retrieved from Windows comptuters using Powershell
+# then places them in the /root/udisk/loot/WiFi-Credentials folder.
 #
 # Blue...............Running Powershell HID Script
 # Purple.............Searching For WiFi Creds
